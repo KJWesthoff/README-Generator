@@ -49,6 +49,19 @@ const questions = [
     },
     {
         type: 'input',
+        name: 'useage',
+        message: 'Write how to use the application',
+        validate: nameInput => {
+          if(nameInput){
+            return true;
+          } else {
+            console.log("please write a useage description");
+            return false;
+          }
+        }
+    },
+    {
+        type: 'input',
         name: 'contributing',
         message: 'Write how to contribute',
         validate: nameInput => {
@@ -92,9 +105,10 @@ const questions = [
             else if(/\/(.+)\/(.+)/.test(nameInput)) {
                 console.log("Is your repo URL https://github.com/"+ nameInput+ "?");
                 return true;
-            } 
-            else {
-                console.log("please enter a GiHub repo URL");
+            }
+                else {
+                console.log("please enter a GitHub repo URL");
+                return false;
             }
         }
     },

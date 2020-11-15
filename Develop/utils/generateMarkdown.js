@@ -15,6 +15,7 @@ function generateMarkdown(data) {
   1. [License](#License)
   1. [Project Description](#Project-Description)
   1. [Installation](#Installation-Instructions)
+  1. [Useage](#How-To-Use)
   1. [How to Contribute](#How-to-Contribute)
   1. [Test Instructions](#Test-Instructions)
   1. [Questions](#Questions)
@@ -28,6 +29,8 @@ function generateMarkdown(data) {
   ${data.description}
   ## Installation Instructions:
   ${data.installation}
+  ## How To Use
+  ${data.useage}
   ## How to Contribute:
   * ${data.contributing}
   * Checkout the github repo and please raise any issues with ${data.title} you come across 
@@ -38,15 +41,11 @@ function generateMarkdown(data) {
 
   ## Questions
   ### Github page:
-  [GitHub](${data.githublink})
+  [GitHub](${data.githubrepolink})
   ### email:
-
-
+  [${data.email}](mailto:${data.email}) 
 `;
 }
-
-
-
 
 
 module.exports = generateMarkdown;
