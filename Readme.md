@@ -1,5 +1,5 @@
 
-  # Project Title: README GENERATOR 
+  # Project Title: Readme Generator 
   ### [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Table of contents:
@@ -20,21 +20,21 @@
   ## Project Description:
   When creating an open source project on GitHub, it is important to have a quality README with information about the app--what is the app for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project. A command-line application will allow for quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.
   ## Installation Instructions:
-  Fork it on GH
+  Clone it on GitHub launch index.js from the directory using Node 
   ## How To Use
-  Command line interface
+  Command line interface, follow instructions, Result is a faile called Readme.md containing the finished readme in the folder
   ## How to Contribute:
-  * Share on Facebook
-  * Checkout the github repo and please raise any issues with README GENERATOR you come across 
+  * Share everywhere
+  * Checkout the github repo and please raise any issues with Readme Generator you come across 
   * Even better - help with bugfixes and features by submitting your solutions in pull requrets for the repo
   * Follow the code of coduct for contribution outlined in [Contributor Covenant](https://www.contributor-covenant.org/) 
   ## Test Instructions
   ### The testing strategy is as follows
-  #### Trial and error
+  #### Trial and error for now
 
   ## Questions
   Feel free to reach out either in the projects GitHub page or send an email to the address below
   ### Github page:
   [GitHub](https://github.com/KJWesthoff/README-Generator)
   ### email:
-  [kj@kj.com](mailto:kj@kj.com) 
+  [test@test.com](mailto:test@test.com) 
