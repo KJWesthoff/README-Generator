@@ -96,17 +96,12 @@ const questions = [
     {
         type: 'input',
         name: 'githubrepolink',
-        message: 'Enter the GitHub link to your project. Either as URL or as /<githubuserame>/<reponame>',
+        message: 'Enter valid GitHub url to your project', 
         validate: nameInput => {
             testgithub = /.+(github.com)\/(.+)\/(.*)/.test(nameInput); //regex test if c-p url 
             if(testgithub){
                 return true;
-            } 
-            else if(/\/(.+)\/(.+)/.test(nameInput)) {
-                console.log("Is your repo URL https://github.com/"+ nameInput+ "?");
-                return true;
-            }
-                else {
+            } else {
                 console.log("please enter a GitHub repo URL");
                 return false;
             }
