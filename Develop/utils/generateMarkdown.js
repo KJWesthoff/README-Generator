@@ -34,12 +34,14 @@ function generateMarkdown(data) {
   ## How to Contribute:
   * ${data.contributing}
   * Checkout the github repo and please raise any issues with ${data.title} you come across 
-  * Even better - help with bugfixes and features by submitting your solutions in pull requrets for the repo 
+  * Even better - help with bugfixes and features by submitting your solutions in pull requrets for the repo
+  * Follow the code of coduct for contribution outlined in [Contributor Covenant](https://www.contributor-covenant.org/) 
   ## Test Instructions
   ### The testing strategy is as follows
   #### ${data.testinstructions}
 
   ## Questions
+  Feel free to reach out either in the projects GitHub page or send an email to the address below
   ### Github page:
   [GitHub](${data.githubrepolink})
   ### email:

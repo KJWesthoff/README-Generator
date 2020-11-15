@@ -127,7 +127,7 @@ const questions = [
 ];
 
 
-
+// Inquirer function
 const promptUser = () => {  
     return inquirer.prompt(questions);
 };
@@ -137,7 +137,7 @@ const promptUser = () => {
 // function to write README file
 function writeToFile(fileName, data) {
     return new Promise((resolve,reject)=>{
-        fs.writeFile(fileName +'.md', data, err => {
+        fs.writeFile(fileName , data, err => {
             if(err){
                 reject(err);
                 return;
@@ -154,7 +154,7 @@ function writeToFile(fileName, data) {
 function init() {
     promptUser().then(data =>{
         let mdStr = generateMarkdown(data);
-        writeToFile("Readme-test", mdStr);
+        writeToFile("Readme.md", mdStr);
     });
 }
 

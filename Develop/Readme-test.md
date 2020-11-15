@@ -1,6 +1,6 @@
 
-  # Project Title: 'æADLFgm.kadfmg 
-  ### [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+  # Project Title: aa 
+  ### [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
   ## Table of contents:
   1. [Title](#Project-Title)
@@ -13,26 +13,28 @@
   1. [Questions](#Questions)
 
   ## License: 
-  ### This project is licensed under BSD-3 (click on icon near the top):
-  or here: [BSD-3](https://opensource.org/licenses/BSD-3-Clause)
+  ### This project is licensed under Apache 2.0 License (click on icon near the top):
+  or here: [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0)
  
 
   ## Project Description:
-  afdlægkmadfgmæladf
+  aa
   ## Installation Instructions:
-  ldfkgldfkgm
+  aa
   ## How To Use
-  adflgkjadfglkmdføgælad
+  aa
   ## How to Contribute:
-  * alødfgojadflgma
-  * Checkout the github repo and please raise any issues with 'æADLFgm.kadfmg you come across 
-  * Even better - help with bugfixes and features by submitting your solutions in pull requrets for the repo 
+  * aa
+  * Checkout the github repo and please raise any issues with aa you come across 
+  * Even better - help with bugfixes and features by submitting your solutions in pull requrets for the repo
+  * Follow the code of coduct for contribution outlined in [Contributor Covenant](https://www.contributor-covenant.org/) 
   ## Test Instructions
   ### The testing strategy is as follows
-  #### æadflgæaldmadfgdf
+  #### aa
 
   ## Questions
+  Feel free to reach out either in the projects GitHub page or send an email to the address below
   ### Github page:
-  [GitHub](KJ/sdf)
+  [GitHub](https://github.com/aa/aa)
   ### email:
-  [der@derk.com](mailto:der@derk.com) 
+  [aa@aa.aa](mailto:aa@aa.aa) 
