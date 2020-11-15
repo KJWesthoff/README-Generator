@@ -22,7 +22,7 @@
   ## Installation Instructions:
   Clone it on GitHub launch index.js from the directory using Node 
   ## How To Use
-  Command line interface, follow instructions, Result is a faile called Readme.md containing the finished readme in the folder
+  Command line interface, follow instructions, Result is a file called Readme.md containing the finished readme in the folder
   ## How to Contribute:
   * Share everywhere
   * Checkout the github repo and please raise any issues with Readme Generator you come across 
