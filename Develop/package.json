@@ -1,14 +1,29 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "KJ",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
-  }
+    "inquirer": "^7.3.3"
+  },
+  "description": "Readme-generator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KJWesthoff/README-Generator.git"
+  },
+  "keywords": [
+    "command",
+    "line",
+    "interface",
+    "inquirer",
+    "README"
+  ],
+  "bugs": {
+    "url": "https://github.com/KJWesthoff/README-Generator/issues"
+  },
+  "homepage": "https://github.com/KJWesthoff/README-Generator#readme"
 }
