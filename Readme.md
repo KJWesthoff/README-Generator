@@ -22,7 +22,11 @@
   ## Installation Instructions:
   It is a node/express js application, clone the github repo and deploy in an environment that supports node and express
   ## How To Use
+<<<<<<< HEAD
   Write a note, save it using the save icon, delete old notes using the trash can icon
+=======
+  Command line interface, follow instructions, Result is a file called Readme.md containing the finished readme in the folder
+>>>>>>> c91e2aedc0afe89265498b678e599a773e2f9413
   ## How to Contribute:
   * Add user identification and send a pull request to the github repo
   * Checkout the github repo and please raise any issues with Note Taker you come across 
