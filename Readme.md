@@ -1,5 +1,5 @@
 
-  # Project Title: Note Taker 
+  # Project Title: Readme Generator 
   ### [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Table of contents:
@@ -18,13 +18,13 @@
  
 
   ## Project Description:
-  App for making and deletin notes
+  App for a nice readme
   ## Installation Instructions:
   It is a node/express js application, clone the github repo and deploy in an environment that supports node and express
   ## How To Use
 
   Write a note, save it using the save icon, delete old notes using the trash can icon
-=======
+
   Command line interface, follow instructions, Result is a file called Readme.md containing the finished readme in the folder
 
   ## How to Contribute:
@@ -34,7 +34,7 @@
   * Follow the code of coduct for contribution outlined in [Contributor Covenant](https://www.contributor-covenant.org/) 
   ## Test Instructions
   ### The testing strategy is as follows
-  #### trial an error
+  #### trial and error
 
   ## Questions
   Feel free to reach out either in the projects GitHub page or send an email to the address below
