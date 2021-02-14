@@ -1,5 +1,5 @@
 
-  # Project Title: Note Taker 
+  # Project Title: Progressive Web App 
   ### [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Table of contents:
@@ -18,27 +18,23 @@
  
 
   ## Project Description:
-  App for making and deletin notes
+  Budget tracker app, working offline using indexedDB for lcal storage og offline transactions and a serviceworker caching pages for offline use. Backend is a mongoDB which is updated with offline transactions when the data connection is re-established.
   ## Installation Instructions:
-  It is a node/express js application, clone the github repo and deploy in an environment that supports node and express
+  Web app deploued here: https://intense-ravine-11513.herokuapp.com/
   ## How To Use
-<<<<<<< HEAD
-  Write a note, save it using the save icon, delete old notes using the trash can icon
-=======
-  Command line interface, follow instructions, Result is a file called Readme.md containing the finished readme in the folder
->>>>>>> c91e2aedc0afe89265498b678e599a773e2f9413
+  Enter a transaction name and ammount and chode if it is to be added or removed using buttons
   ## How to Contribute:
-  * Add user identification and send a pull request to the github repo
-  * Checkout the github repo and please raise any issues with Note Taker you come across 
+  * comments, suggestions and bug-reports are very welcome on github
+  * Checkout the github repo and please raise any issues with Progressive Web App you come across 
   * Even better - help with bugfixes and features by submitting your solutions in pull requrets for the repo
   * Follow the code of coduct for contribution outlined in [Contributor Covenant](https://www.contributor-covenant.org/) 
   ## Test Instructions
   ### The testing strategy is as follows
-  #### trial an error
+  #### Test to bve added for further development
 
   ## Questions
   Feel free to reach out either in the projects GitHub page or send an email to the address below
   ### Github page:
-  [GitHub](https://github.com/KJWesthoff/Notetaker)
+  [GitHub](https://github.com/KJWesthoff/ProgressiveWebApp)
   ### email:
   [karl.johan.westhoff@gmail.com](mailto:karl.johan.westhoff@gmail.com) 
